@@ -1,5 +1,5 @@
 import pineapple from '../assets/img/Pineapple.png'
-import grapes from '../assets/img/grapes.png'
+import grapes from '../assets/img/Grapes.png'
 import watermelon from '../assets/img/Watermelon.png'
 import Image from 'next/image'
 
